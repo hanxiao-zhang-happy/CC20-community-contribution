@@ -1,4 +1,5 @@
 # CC20-community-contribution
+## Author: Hanxiao Zhang & Lei Guo
 
 We're trying to create a web site for sharing class resources publicly. 
 In order to give the audiences an overall knowledge of EDA, our website includes the following three parts: 
@@ -15,14 +16,14 @@ In order to give the audiences an overall knowledge of EDA, our website includes
   * We would include the recommended reading materials for students to learn certain topics in depth). We have complete the general design of the website and would include more topics during the rest of the semester. 
 
 
-# Links of all Parts of Website
+# Links of All Parts of Website
   * Link to our website: https://leiguolg.wixsite.com/5702 
     ** The .Rmd and .html files for the 2nd part of our website rpub are also available on the button called ".Rmd and .html files" on the 2nd page of our website named "Specific Topic -- Mosaic plot". These two files can be downloaded through google drive.
   * Link to translated tutorial: https://rpubs.com/hz2660/Mosaic-plot 
 
 # Codes of 2nd-part of Website 
   * The .Rmd is available on this Github branch named "Translation-Rcode" 
-  * 
+
 
 ## Note for the Available Code
  * We used the "Wix" SaaS to generate a website that for sharing class resources publicly, where the code of building the website is not included in the Github since the website is created by "Wix" platform And we include here . This is the second part of our website, which is a specific topic .Rmd tutorial (we are translating the external resources on Mosaic plot topic). 
